@@ -76,6 +76,7 @@ The output will be:
 ```Java
 I-150 is not a valid interstate highway number.
 ```
+This application serves a very niche purpose and is not easily modified to fufill any other application purpose.
 
 ## Contributions
 Eric Keeton
