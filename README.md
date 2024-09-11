@@ -22,7 +22,7 @@ Using terminal commands:
 
 - Clone or download the repository: 
 ```Java 
-- git clone https://github.com/your-username/HighwayTool.git 
+- git clone https://github.com/EMK2473/HighwayTool.git 
 ```
 
 - Navigate to the project directory: 
